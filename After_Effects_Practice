@@ -1,12 +1,16 @@
-## After Effects – Character Animation Practice
+## UI Motion Practice – After Effects
 
-Today I worked on animating a simple character in Adobe After Effects.
+Today I practiced motion design concepts relevant to UI/UX using Adobe After Effects.
 
-### What I learned:
-- Basic character animation (body and flame movement)
-- Pre-compositions and layer control
-- Exporting animation with transparent background
-- Difference between Media Encoder and After Effects Render Queue
-- Exporting using Apple ProRes 4444 with Alpha channel
+### What I worked on:
+- Character-style motion that can be used in onboarding or empty states
+- Smooth side-to-side movement and secondary motion (flame / body sway)
+- Understanding how motion adds personality and feedback to interfaces
+- Exporting motion assets with transparent background for UI use
 
-This is part of my daily practice as I’m learning motion graphics and animation.
+### Tools:
+- Adobe After Effects
+- Media Encoder
+
+This practice focuses on improving motion and interaction quality in UI/UX design.
+
