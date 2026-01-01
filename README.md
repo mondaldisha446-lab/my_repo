@@ -8,9 +8,13 @@ This repository is for my learning journey.
 - Python fundamentals
 - How to document learning and projects on GitHub
 # Current focus
-     Designing a shopping app UI
-     Login, product listing, and scrolling screens
+- Designing a shopping app UI
+- Practicing Python basics (strings, input/output, data types)
+- Learning HTML structure and tags, CSS.
 # Tools
      Figma
      GitHub
      Aobe Tools
+     Python
+     HTML
+     CSS
